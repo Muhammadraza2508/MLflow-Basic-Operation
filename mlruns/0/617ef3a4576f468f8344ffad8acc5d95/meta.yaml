@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-test/mlruns/0/617ef3a4576f468f8344ffad8acc5d95/artifacts
+end_time: 1714747312089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617ef3a4576f468f8344ffad8acc5d95
+run_name: clean-sponge-717
+run_uuid: 617ef3a4576f468f8344ffad8acc5d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714747307128
+status: 3
+tags: []
+user_id: thera

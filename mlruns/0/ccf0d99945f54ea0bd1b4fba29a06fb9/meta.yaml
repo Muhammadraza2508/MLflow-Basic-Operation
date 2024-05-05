@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-test/mlruns/0/ccf0d99945f54ea0bd1b4fba29a06fb9/artifacts
+end_time: 1714747339977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf0d99945f54ea0bd1b4fba29a06fb9
+run_name: chill-hog-451
+run_uuid: ccf0d99945f54ea0bd1b4fba29a06fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714747336491
+status: 3
+tags: []
+user_id: thera

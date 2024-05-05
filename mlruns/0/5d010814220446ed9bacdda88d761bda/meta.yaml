@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-test/mlruns/0/5d010814220446ed9bacdda88d761bda/artifacts
+end_time: 1714747377546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d010814220446ed9bacdda88d761bda
+run_name: spiffy-conch-369
+run_uuid: 5d010814220446ed9bacdda88d761bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714747374207
+status: 3
+tags: []
+user_id: thera

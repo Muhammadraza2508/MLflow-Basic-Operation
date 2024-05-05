@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow-test/mlruns/0/1e48a23a3a1648c387af46e974cacfae/artifacts
+end_time: 1714747320602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e48a23a3a1648c387af46e974cacfae
+run_name: auspicious-shrew-623
+run_uuid: 1e48a23a3a1648c387af46e974cacfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714747317006
+status: 3
+tags: []
+user_id: thera
